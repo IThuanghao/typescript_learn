@@ -1,0 +1,11 @@
+在cmd里面
+npm i ts-node -g   下载3个支持库
+在vscode里面
+npm init -y    生成一个package.json文件
+再一次在vscode里面 
+npm i @types/node -D
+完成
+
+降ts版本
+vscode 里面
+npm install -g ts-node@8.5.4
